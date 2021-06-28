@@ -1,0 +1,12 @@
+LIBRARY RobotSoccerStrategy_10.dll
+
+DESCRIPTION RS Strategy v1.0 by Chris Siddall
+
+EXPORTS
+
+Create = _Create@4
+
+Destroy = _Destroy@4
+
+Strategy = _Strategy@4
+
